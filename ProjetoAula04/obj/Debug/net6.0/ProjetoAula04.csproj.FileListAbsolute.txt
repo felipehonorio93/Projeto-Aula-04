@@ -1,0 +1,38 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ref\ProjetoAula04.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ref\ProjetoAula04.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TerQui Noite\Aula 02 - 07.07.22\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.genruntimeconfig.cache
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.exe
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.deps.json
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.runtimeconfig.json
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.pdb
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\Dapper.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.AssemblyReference.cache
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfoInputs.cache
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfo.cs
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.CopyComplete
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\refint\ProjetoAula04.dll
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.pdb
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.genruntimeconfig.cache
+C:\Users\User\source\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ref\ProjetoAula04.dll
